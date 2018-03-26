@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Calm Amani's Site"
+newContentEditor = "vi"
+theme = "ananke"
